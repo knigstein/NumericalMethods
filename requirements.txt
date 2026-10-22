@@ -3,3 +3,4 @@ matplotlib
 mujoco==3.3.7
 mediapy
 jupyter
+scipy
